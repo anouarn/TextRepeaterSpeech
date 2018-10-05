@@ -1,4 +1,4 @@
-# rdnti
+# TextRepeaterSpeech 1.0
 TextRepeaterSpeech 1.0
 Text Repeater Speech is an application to help vocabulary learning, it helps anyone interested
 
