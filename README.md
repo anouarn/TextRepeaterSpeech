@@ -9,4 +9,4 @@ The vocabularies are organized by Headlines and Subtitles in three languages: Fr
 
 The application requires the .Net 4.5 framework installed which can be downloaded through the following link <a  href="https://www.microsoft.com/en-US/download/details.aspx?id=30653" >Download</a>
 
-Cliquer <a  href="https://github.com/anouarn/rdnti/blob/TextRepeaterSpeech-1.0/TextRepeaterSpeech.exe" >ici</a> pour télécharger TextRepeaterSpeech 1.0
+Click <a  href="https://github.com/anouarn/rdnti/blob/TextRepeaterSpeech-1.0/TextRepeaterSpeech.exe" >here</a>to download TextRepeaterSpeech 1.0
